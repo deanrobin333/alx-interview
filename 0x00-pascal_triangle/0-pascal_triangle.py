@@ -3,6 +3,7 @@
 
 '''Module that prints the pascal triangle'''
 
+
 def pascal_triangle(n):
     """
     Returns a list of integers
