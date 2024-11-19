@@ -10,7 +10,8 @@
     - [4. 0x04. UTF-8 Validation](#4)
     - [5. 0x05. N Queens](#5)
     - [6. 0x06. Star Wars API](#6)
-    - [7. ](#7)
+    - [7. 0x07. Rotate 2D Matrix](#7)
+    - [8. ](#8)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -244,7 +245,35 @@
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
-### [7. ](./)
+### [7. 0x07. Rotate 2D Matrix](./0x07-rotate_2d_matrix)
+- For the “0. Rotate 2D Matrix” project, you are tasked with implementing an in-place algorithm to rotate an n x n 2D matrix by 90 degrees clockwise. This challenge requires a good understanding of matrix manipulation and in-place operations in Python. Below are the key concepts and resources that you need to grasp in order to successfully complete this project.
+    
+### Concepts Needed:
+
+1.  **Matrix Representation in Python**:
+    
+    - Understanding how 2D matrices are represented using lists of lists in Python.
+    - Accessing and modifying elements in a 2D matrix.
+2.  **In-place Operations**:
+    
+    - Performing operations on data without creating a copy of the data structure.
+    - The importance of minimizing space complexity by modifying the matrix in place.
+3.  **Matrix Transposition**:
+    
+    - Understanding the concept of transposing a matrix (swapping rows and columns).
+    - Implementing matrix transposition as a step in the rotation process.
+4.  **Reversing Rows in a Matrix**:
+    
+    - Manipulating rows of a matrix by reversing their order as part of the rotation process.
+5.  **Nested Loops**:
+    
+    - Using nested loops to iterate through 2D data structures like matrices.
+    - Modifying elements within nested loops to achieve the desired rotation.
+
+---
+#### 8
+###### [Table of Contents](#table-of-contents)
+### [8. ](./)
 
 ---
 
